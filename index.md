@@ -1,47 +1,41 @@
-## About Me
-I hold a PhD in Computational Biology and a Master's degree in Physics, complemented by years of practical experience in Bioinformatics. 
+# Bioinformatician
 
-Currently, I am the coordinator of the data analysis working group at Spatial-Cell-ID (ENS of Lyon). My professional journey is centered around the analysis of diverse biological datasets, including bulk RNA-Seq, single-cell RNA-Seq, Spatial Transcriptomics, and Hi-C.
 
-Proficient in Python, R, shell scripting (bash), and High-Performance Computing (HPC), I navigate the intricacies of large-scale data with ease. My grounding in mathematics, predictive modeling, and statistics adds depth to my analytical capabilities.
+#### Single-cell RNASeq and Spatial Transcriptomics data analysis specialist
 
-My expertise extends to the development and application of various bioinformatics tools. I've contributed as both a first and corresponding author to scientific publications.
 
-In addition, I bring extensive experience in teaching university students.
+### Education
+- Ph.D., Computational Biology | University of Strasbourg (France) (_2020_)								       		
+- M.S., Physics	| University of Naples (Italy) (_2016_)	 			        		
 
-## Research Interests
-- Interest 1
-- Interest 2
-- Interest 3
+### Coordinator of the Data Analysis working group @ [Spatial-Cell-ID](https://spatial-cell-id.ens-lyon.fr/), ENS of Lyon, France<br />
+Spatial-Cell-ID is a national Spatial Transcriptomics facility that aims to study cellular identity and its spatial heterogeneity within tissues, organs, or biological systems in normal and pathological contexts, through very recent developments in spatial transcriptomics.
 
-## Publications
-1. **Title of Paper 1** (Year). Journal Name, Volume(Issue), Page numbers. [Link](url-to-paper)
-2. **Title of Paper 2** (Year). Journal Name, Volume(Issue), Page numbers. [Link](url-to-paper)
-3. **Title of Paper 3** (Year). Journal Name, Volume(Issue), Page numbers. [Link](url-to-paper)
+<p float="left">
+  <img src="/logo-spatial-cell-id.jpg" width="200" />
+  <img src="/logo_ENS_Lyon.png" width="224" />
 
-## Projects
-### Project 1
-A brief description of Project 1. Explain the purpose, methods, and outcomes of the project. 
+I lead the bioinformatics efforts at Spatial-Cell-ID by: <br />
+• Implementing data analysis pipelines;<br />
+• Developing new bioinformatics procedures and tools;<br />
+• Communicating and presenting findings; <br />
+• Coordinating skill transfers between labs; <br />
+• Providing training to the users;<br />
+• Supervising young researchers.<br />
 
-### Project 2
-A brief description of Project 2. Explain the purpose, methods, and outcomes of the project. 
+Click [here](https://gitbio.ens-lyon.fr/spatial-cell-id) to access the git repository of the data analysis working group
 
-### Project 3
-A brief description of Project 3. Explain the purpose, methods, and outcomes of the project. 
 
-## Teaching
-I teach the following courses at [Your Institution]:
-- **Course 1**: Brief description of Course 1
-- **Course 2**: Brief description of Course 2
-- **Course 3**: Brief description of Course 3
+### Teaching:
+- [Practicals in next generation sequencing](https://biologie.ens-lyon.fr/masterbiosciences/presentation-des-ue/les-ue-pratique/practicals-in-NGS) at ENS of Lyon
+- CHANGE Summer school, September 2024 : Practical training on Spatial Transcriptimics data analyis. <br />
+_More details and references for the course will be released soon. Stay tuned!_
 
-## Contact
-You can reach me at:
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- Office: [Your Office Location]
-- Phone: [Your Phone Number]
+### Selected Publications
+1. Regulation of transcription reactivation dynamics exiting mitosis. <br />
+  **Sergio Sarnataro**, Andrea Riba, Nacho Molina (2021).<br />
+  https://doi.org/10.1371/journal.pcbi.1009354
 
-## Links
-- [GitHub](https://github.com/your-github-username)
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-username)
-- [Twitter](https://twitter.com/your-twitter-username)
+2. Structure of the human chromosome interaction network <br />
+  **Sergio Sarnataro**, Andrea M. Chiariello, Andrea Esposito, Antonella Prisco, Mario Nicodemi.<br />
+  https://doi.org/10.1371/journal.pone.0188201
