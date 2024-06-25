@@ -23,18 +23,18 @@ I lead the bioinformatics efforts at Spatial-Cell-ID by: <br />
 • Providing training to the users;<br />
 • Supervising young researchers.<br />
 
-Click [here](https://gitbio.ens-lyon.fr/spatial-cell-id) to access the git repository of the data analysis working group
+Click [here](https://gitbio.ens-lyon.fr/spatial-cell-id) to access the git repository of the data analysis working group.<br />
 
 
 ### Teaching:
 - [Practicals in next generation sequencing](https://biologie.ens-lyon.fr/masterbiosciences/presentation-des-ue/les-ue-pratique/practicals-in-NGS) at ENS of Lyon
 - CHANGE Summer school, September 2024 : Practical training on Spatial Transcriptimics data analyis. <br />
-_More details and references for the course will be released soon. Stay tuned!_
+_More details and references for the course will be released soon. Stay tuned!_<br />
 
 ### Selected Publications
 1. Regulation of transcription reactivation dynamics exiting mitosis. <br />
   **Sergio Sarnataro**, Andrea Riba, Nacho Molina (2021).<br />
-  https://doi.org/10.1371/journal.pcbi.1009354
+  https://doi.org/10.1371/journal.pcbi.1009354<br />
 
 2. Structure of the human chromosome interaction network <br />
   **Sergio Sarnataro**, Andrea M. Chiariello, Andrea Esposito, Antonella Prisco, Mario Nicodemi.<br />
