@@ -1,10 +1,3 @@
----
-title: "Sergio Sarnataro, PhD"
-description: "Coordinator of the data analysis team of Spatial-Cell-ID at École Normale Supérieure (ENS) of Lyon."
----
-
-![Profile Picture](profile_pic.jpeg)
-
 ## About Me
 I hold a PhD in Computational Biology and a Master's degree in Physics, complemented by years of practical experience in Bioinformatics. 
 
