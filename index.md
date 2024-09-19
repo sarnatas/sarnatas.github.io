@@ -29,8 +29,7 @@ Click [here](https://gitbio.ens-lyon.fr/spatial-cell-id) to access the git repos
 
 ### Teaching:
 - [Practicals in next generation sequencing](https://biologie.ens-lyon.fr/masterbiosciences/presentation-des-ue/les-ue-pratique/practicals-in-NGS) at ENS of Lyon
-- CHANGE Summer school, September 2024 : Practical training on Spatial Transcriptimics data analyis. <br />
-_More details and references for the course will be released soon. Stay tuned!_
+- [CHANGE Summer school, September 2024 : Practical training on Spatial Transcriptimics data analysis](https://spatial-cell-id.gitbiopages.ens-lyon.fr/change-summer-school/). <br />
 
 ### Selected Publications
 1. Regulation of transcription reactivation dynamics exiting mitosis. <br />
