@@ -2,38 +2,35 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Alex Johnson
-  given: Alex
-  family: Johnson
+  display: Sergio Sarnataro
+  given: Sergio
+  family: Sarnataro
 postnominals: []
-status:
+status: 
   icon: "💻"  # Emoji shown on avatar badge: 💻 developer, 🎨 designer, 🚀 startup, 🔬 researcher, 🎓 student
-role: Full-Stack Developer
-email: alex@example.com
+role: Research Engineer in Bioinformatics
+email: sergio.sarnataro@ens-lyon.fr
 bio: |
-  Full-stack developer with 5+ years of experience building scalable web applications.
-  Passionate about modern JavaScript, cloud architecture, and creating delightful user experiences.
+  I hold a PhD in Computational Biology and a Master's degree in Physics, complemented by years of practical experience in Bioinformatics. 
+  Currently, I am the coordinator of the data analysis hub at Spatial-Cell-ID (ENS of Lyon). 
+
 
 affiliations:
-  - name: Tech Corp
-    url: https://techcorp.example.com
+  - name: École Normale Supérieure (ENS) of Lyon - Spatial-Cell-ID
+    url: hhttps://spatial-cell-id.ens-lyon.fr/
 
 links:
   - icon: at-symbol
-    url: mailto:alex@example.com
+    url: mailto:sergio.sarnataro@ens-lyon.fr
     label: E-mail Me
-  - icon: brands/github
-    url: https://github.com/alexjohnson
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnson/
-  - icon: brands/x
-    url: https://x.com/alexjohnson
+    url: https://www.linkedin.com/in/sergiosarnataro/
 
 interests:
-  - Web Development
-  - Cloud Architecture
-  - Open Source
-  - Developer Experience
+  - Bioinformatics
+  - Data Science
+  - Computer Science
+  - Football (SSC Naples fan)
 
 education:
   - degree: B.S. Computer Science
